@@ -1,0 +1,24 @@
+# 1) Which regions have the most expensive apartments? 
+
+RE.property_listings.aggregate([
+{ $match: {status: "Sold"} },
+{ $group: {_id: "$region",  
+Price_per_sqft: {$avg: $divide:{["$rate",”size”]}} }
+])
+
+
+# 2) Where can NY Estate Inc. locate their next office?
+
+RE.property_listings.aggregate([
+{ $match: {status: "Sold"} },
+{ $group: {region: "$region", total_sales: {$sum: "$rate"}, num_units_sold:
+{$count: {} }}}])
+
+
+# 3) Top 5 best performing agents based on their average rating.
+
+RE.feedback.aggregate([
+{ $group: {
+_id: "$agentID",
+avg_rating: {$avg: "$rating"}}},
+{$sort: { avg_rating: -1}}]
