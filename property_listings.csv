@@ -1,0 +1,301 @@
+propID,creationDate,rate,region,type,status,size
+PL286,10/5/2022,618270,"Syracuse, NY",3-bedroom,Sold,2046
+PL275,9/5/2022,617791,"Oneonta, NY",3-bedroom,Reserved,2715
+PL261,8/4/2022,616809,"Utica, NY",3-bedroom,Sold,2608
+PL251,7/11/2022,614532,"Gloversville, NY",3-bedroom,Unsold,2264
+PL241,6/1/2022,610227,"Ogdensburg, NY",3-bedroom,Sold,2658
+PL232,5/1/2022,604240,"Rochester, NY",3-bedroom,Unsold,2048
+PL221,4/2/2022,596752,"Olean, NY",3-bedroom,Unsold,2186
+PL216,3/1/2022,589646,"Ithaca, NY",3-bedroom,Sold,1950
+PL208,2/6/2022,583239,"Syracuse, NY",3-bedroom,Unsold,2341
+PL201,1/1/2022,578616,"Amsterdam, NY",3-bedroom,Sold,2300
+PL189,12/1/2021,574669,"Ogdensburg, NY",3-bedroom,Reserved,2028
+PL175,11/7/2021,571440,"Amsterdam, NY",3-bedroom,Reserved,2198
+PL165,10/2/2021,567893,"Corning, NY",3-bedroom,Unsold,3167
+PL159,9/3/2021,563354,"Syracuse, NY",2-bedroom,Unsold,3501
+PL153,8/1/2021,557464,"Watertown, NY",2-bedroom,Reserved,2147
+PL149,7/16/2021,549885,"Binghamton, NY",3-bedroom,Unsold,3733
+PL143,6/3/2021,541972,"Cortland, NY",3-bedroom,Sold,3500
+PL136,5/6/2021,534822,"Seneca Falls, NY",3-bedroom,Reserved,1809
+PL131,4/2/2021,529323,"Binghamton, NY",3-bedroom,Reserved,3600
+PL121,3/1/2021,524593,"Oneonta, NY",2-bedroom,Unsold,2469
+PL111,2/3/2021,520237,"Olean, NY",3-bedroom,Reserved,1801
+PL101,1/10/2021,515509,"Syracuse, NY",2-bedroom,Unsold,2091
+PL95,12/2/2020,510680,"Auburn, NY",3-bedroom,Sold,1584
+PL83,11/4/2020,504872,"Glens Falls, NY",3-bedroom,Unsold,2000
+PL76,10/10/2020,498862,"Rochester, NY",2-bedroom,Sold,2126
+PL71,9/4/2020,493392,"Cortland, NY",3-bedroom,Reserved,3300
+PL59,8/1/2020,488901,"Ithaca, NY",3-bedroom,Reserved,1450
+PL53,7/2/2020,486320,"Watertown, NY",2-bedroom,Reserved,2789
+PL43,6/5/2020,485107,"New York, NY",2-bedroom,Sold,1854
+PL29,5/3/2020,484553,"Hudson, NY",3-bedroom,Reserved,1400
+PL22,4/3/2020,483746,"Gloversville, NY",3-bedroom,Sold,1900
+PL18,3/2/2020,482259,"Olean, NY",2-bedroom,Sold,3182
+PL08,2/7/2020,480845,"Kingston, NY",3-bedroom,Reserved,1547
+PL01,1/1/2020,479372,"New York, NY",2-bedroom,Sold,1995
+PL258,7/24/2022,377146,"Rochester, NY",2-bedroom,Reserved,1763
+PL293,10/16/2022,376147,"Ogdensburg, NY",3-bedroom,Sold,1567
+PL268,8/16/2022,375982,"Ithaca, NY",3-bedroom,Reserved,1266
+PL282,9/17/2022,375454,"New York, NY",2-bedroom,Reserved,1980
+PL248,6/24/2022,374667,"Hudson, NY",3-bedroom,Reserved,1250
+PL239,5/27/2022,371319,"Glens Falls, NY",3-bedroom,Sold,1680
+PL228,4/23/2022,367675,"Cortland, NY",3-bedroom,Reserved,3114
+PL215,2/24/2022,363308,"Ogdensburg, NY",3-bedroom,Reserved,1631
+PL196,12/19/2021,358919,"Hudson, NY",3-bedroom,Sold,1231
+PL182,11/16/2021,355819,"Syracuse, NY",2-bedroom,Unsold,2268
+PL172,10/21/2021,351084,"Batavia, NY",3-bedroom,Reserved,2840
+PL128,3/24/2021,310995,"Albany, NY",3-bedroom,Reserved,1665
+PL118,2/21/2021,303316,"Cortland, NY",3-bedroom,Unsold,2998
+PL298,10/28/2022,301550,"Auburn, NY",3-bedroom,Reserved,1000
+PL273,8/27/2022,300157,"Olean, NY",2-bedroom,Reserved,1156
+PL108,1/28/2021,295371,"Elmira, NY",3-bedroom,Sold,2000
+PL90,11/19/2020,281975,"Ogdensburg, NY",2-bedroom,Sold,1019
+PL289,10/10/2022,280947,"Kingston, NY",3-bedroom,Sold,1100
+PL278,9/10/2022,278964,"Malone, NY",3-bedroom,Reserved,953
+PL264,8/7/2022,276714,"Jamestown, NY",3-bedroom,Unsold,1230
+PL254,7/14/2022,274062,"Cortland, NY",2-bedroom,Sold,1143
+PL244,6/13/2022,271968,"Elmira, NY",3-bedroom,Unsold,2120
+PL235,5/8/2022,269382,"Utica, NY",3-bedroom,Reserved,951
+PL295,10/19/2022,266322,"Corning, NY",3-bedroom,Sold,2100
+PL224,4/13/2022,265712,"Batavia, NY",3-bedroom,Unsold,2090
+PL284,9/19/2022,263584,"Rochester, NY",2-bedroom,Unsold,1412
+PL270,8/20/2022,262373,"Elmira, NY",2-bedroom,Sold,1542
+PL219,3/9/2022,262334,"Plattsburgh, NY",3-bedroom,Sold,900
+PL260,7/30/2022,260268,"Syracuse, NY",1-bedroom,Sold,577
+PL211,2/16/2022,259905,"Kingston, NY",3-bedroom,Reserved,1169
+PL204,1/16/2022,258717,"New York, NY",1-bedroom,Unsold,710
+PL250,6/30/2022,258609,"Batavia, NY",3-bedroom,Reserved,1953
+PL187,11/27/2021,257276,"Glens Falls, NY",2-bedroom,Unsold,1100
+PL192,12/10/2021,256557,"Elmira, NY",2-bedroom,Unsold,926
+PL66,8/19/2020,254533,"Oneonta, NY",3-bedroom,Unsold,1149
+PL230,4/29/2022,254363,"New York, NY",1-bedroom,Unsold,814
+PL178,11/13/2021,254237,"New York, NY",1-bedroom,Unsold,617
+PL168,10/4/2021,251487,"Auburn, NY",3-bedroom,Reserved,980
+PL162,9/22/2021,249089,"Watertown, NY",1-bedroom,Reserved,759
+PL50,6/21/2020,247235,"Kingston, NY",2-bedroom,Reserved,1607
+PL156,8/7/2021,246391,"Corning, NY",3-bedroom,Reserved,2053
+PL36,5/21/2020,246196,"Ogdensburg, NY",2-bedroom,Unsold,1182
+PL15,2/24/2020,245904,"Elmira, NY",2-bedroom,Sold,1070
+PL252,7/12/2022,245510,"Malone, NY",3-bedroom,Reserved,1066
+PL262,8/4/2022,245048,"Binghamton, NY",3-bedroom,Unsold,2333
+PL242,6/4/2022,244560,"Ithaca, NY",2-bedroom,Reserved,1015
+PL276,9/5/2022,244498,"Batavia, NY",2-bedroom,Unsold,1268
+PL287,10/5/2022,244001,"Utica, NY",3-bedroom,Reserved,1030
+PL233,5/6/2022,242801,"Albany, NY",3-bedroom,Unsold,1214
+PL152,7/22/2021,242444,"Glens Falls, NY",2-bedroom,Sold,1304
+PL222,4/7/2022,238829,"Hudson, NY",2-bedroom,Unsold,1005
+PL146,6/20/2021,238800,"Syracuse, NY",1-bedroom,Sold,558
+PL198,12/26/2021,237085,"Batavia, NY",2-bedroom,Unsold,1323
+PL139,5/13/2021,235425,"Batavia, NY",2-bedroom,Unsold,1464
+PL217,3/2/2022,234670,"Corning, NY",3-bedroom,Unsold,2050
+PL134,4/24/2021,233478,"Amsterdam, NY",3-bedroom,Reserved,900
+PL184,11/19/2021,233386,"Binghamton, NY",2-bedroom,Sold,866
+PL174,10/26/2021,231899,"Malone, NY",3-bedroom,Unsold,898
+PL124,3/8/2021,230840,"Malone, NY",3-bedroom,Sold,859
+PL209,2/8/2022,230140,"Utica, NY",3-bedroom,Sold,798
+PL114,2/12/2021,227923,"Batavia, NY",2-bedroom,Sold,1156
+PL202,1/11/2022,227788,"Cortland, NY",2-bedroom,Unsold,1194
+PL190,12/5/2021,226007,"Ithaca, NY",2-bedroom,Unsold,877
+PL41,5/28/2020,226006,"Auburn, NY",3-bedroom,Unsold,940
+PL176,11/7/2021,225007,"Cortland, NY",2-bedroom,Sold,799
+PL104,1/16/2021,224230,"Watertown, NY",1-bedroom,Unsold,603
+PL166,10/2/2021,223938,"Elmira, NY",2-bedroom,Reserved,1418
+PL160,9/6/2021,223198,"Utica, NY",3-bedroom,Reserved,944
+PL154,8/1/2021,221697,"Ogdensburg, NY",2-bedroom,Unsold,852
+PL98,12/24/2020,221503,"Oneonta, NY",2-bedroom,Sold,1425
+PL288,10/7/2022,218880,"Binghamton, NY",2-bedroom,Reserved,1019
+PL150,7/19/2021,218865,"Kingston, NY",2-bedroom,Reserved,1291
+PL86,11/15/2020,218624,"Ithaca, NY",2-bedroom,Reserved,1205
+PL263,8/5/2022,217814,"Kingston, NY",2-bedroom,Sold,978
+PL277,9/9/2022,217615,"Gloversville, NY",2-bedroom,Sold,909
+PL253,7/13/2022,217530,"Amsterdam, NY",3-bedroom,Sold,850
+PL243,6/9/2022,216717,"Corning, NY",3-bedroom,Reserved,2022
+PL79,10/21/2020,216373,"Utica, NY",3-bedroom,Sold,702
+PL234,5/8/2022,214234,"Syracuse, NY",1-bedroom,Unsold,664
+PL74,9/12/2020,213725,"New York, NY",1-bedroom,Sold,686
+PL144,6/14/2021,212419,"Seneca Falls, NY",3-bedroom,Sold,861
+PL62,8/7/2020,211796,"Plattsburgh, NY",3-bedroom,Unsold,792
+PL223,4/8/2022,211438,"Oneonta, NY",2-bedroom,Sold,890
+PL130,3/31/2021,210894,"Utica, NY",3-bedroom,Reserved,833
+PL56,7/13/2020,210440,"Glens Falls, NY",2-bedroom,Unsold,910
+PL46,6/10/2020,209147,"Albany, NY",3-bedroom,Reserved,1100
+PL32,5/13/2020,208394,"Kingston, NY",2-bedroom,Unsold,798
+PL218,3/6/2022,208352,"Elmira, NY",2-bedroom,Sold,974
+PL120,2/26/2021,207745,"Hudson, NY",2-bedroom,Reserved,839
+PL25,4/13/2020,207482,"Cortland, NY",2-bedroom,Sold,1038
+PL21,3/31/2020,207284,"Batavia, NY",2-bedroom,Sold,1366
+PL11,2/13/2020,207275,"Watertown, NY",1-bedroom,Sold,477
+PL04,1/25/2020,207014,"Albany, NY",2-bedroom,Sold,1071
+PL137,5/7/2021,206301,"Hudson, NY",2-bedroom,Reserved,818
+PL210,2/15/2022,205528,"Binghamton, NY",2-bedroom,Reserved,899
+PL110,1/30/2021,204259,"Auburn, NY",2-bedroom,Reserved,1292
+PL290,10/10/2022,203134,"Jamestown, NY",2-bedroom,Sold,1177
+PL203,1/15/2022,202895,"Seneca Falls, NY",3-bedroom,Unsold,676
+PL279,9/12/2022,201928,"Amsterdam, NY",2-bedroom,Reserved,837
+PL132,4/10/2021,201085,"Kingston, NY",1-bedroom,Unsold,856
+PL265,8/7/2022,200823,"Glens Falls, NY",1-bedroom,Reserved,552
+PL191,12/5/2021,200324,"Corning, NY",3-bedroom,Sold,2000
+PL255,7/15/2022,199061,"Seneca Falls, NY",2-bedroom,Sold,792
+PL122,3/4/2021,198768,"Batavia, NY",1-bedroom,Sold,648
+PL177,11/10/2021,198192,"Seneca Falls, NY",2-bedroom,Unsold,762
+PL92,11/26/2020,197836,"Corning, NY",2-bedroom,Unsold,831
+PL245,6/17/2022,197046,"Plattsburgh, NY",2-bedroom,Reserved,1186
+PL112,2/3/2021,196912,"Hudson, NY",1-bedroom,Reserved,714
+PL167,10/2/2021,196815,"Plattsburgh, NY",2-bedroom,Unsold,825
+PL161,9/6/2021,196532,"Glens Falls, NY",1-bedroom,Unsold,857
+PL155,8/4/2021,195926,"Ithaca, NY",2-bedroom,Reserved,864
+PL236,5/10/2022,195007,"Binghamton, NY",1-bedroom,Sold,708
+PL17,2/29/2020,194951,"Auburn, NY",2-bedroom,Sold,1268
+PL102,1/12/2021,194830,"Utica, NY",3-bedroom,Sold,778
+PL151,7/21/2021,193859,"Jamestown, NY",2-bedroom,Reserved,998
+PL68,8/22/2020,193591,"Gloversville, NY",2-bedroom,Unsold,839
+PL38,5/22/2020,193353,"Corning, NY",2-bedroom,Reserved,1000
+PL225,4/13/2022,192595,"Gloversville, NY",2-bedroom,Reserved,804
+PL52,6/23/2020,192458,"Glens Falls, NY",1-bedroom,Unsold,551
+PL96,12/14/2020,192439,"Olean, NY",2-bedroom,Sold,1026
+PL296,10/19/2022,190711,"Elmira, NY",1-bedroom,Unsold,581
+PL291,10/12/2022,190615,"Glens Falls, NY",1-bedroom,Reserved,763
+PL145,6/16/2021,190200,"Albany, NY",2-bedroom,Reserved,939
+PL84,11/8/2020,189751,"Watertown, NY",1-bedroom,Reserved,483
+PL280,9/13/2022,189500,"Cortland, NY",1-bedroom,Sold,829
+PL220,3/17/2022,189384,"Auburn, NY",2-bedroom,Sold,871
+PL285,9/22/2022,188952,"Albany, NY",2-bedroom,Unsold,845
+PL266,8/9/2022,188821,"Watertown, NY",1-bedroom,Sold,659
+PL271,8/21/2022,187891,"Plattsburgh, NY",2-bedroom,Unsold,833
+PL77,10/12/2020,186537,"Albany, NY",2-bedroom,Unsold,896
+PL256,7/16/2022,186537,"New York, NY",1-bedroom,Sold,788
+PL138,5/9/2021,186363,"Oneonta, NY",2-bedroom,Sold,959
+PL212,2/16/2022,186283,"Jamestown, NY",2-bedroom,Sold,804
+PL246,6/18/2022,184192,"Auburn, NY",2-bedroom,Reserved,846
+PL205,1/18/2022,183981,"Buffalo, NY",2-bedroom,Reserved,1061
+PL72,9/7/2020,183327,"Syracuse, NY",1-bedroom,Unsold,792
+PL133,4/14/2021,183058,"Jamestown, NY",2-bedroom,Sold,1041
+PL237,5/21/2022,182677,"Kingston, NY",1-bedroom,Unsold,889
+PL193,12/12/2021,182331,"Plattsburgh, NY",2-bedroom,Unsold,1037
+PL226,4/15/2022,181600,"Malone, NY",2-bedroom,Unsold,1067
+PL179,11/14/2021,180890,"Buffalo, NY",2-bedroom,Unsold,825
+PL123,3/7/2021,180316,"Gloversville, NY",2-bedroom,Sold,1054
+PL60,8/2/2020,180175,"Corning, NY",2-bedroom,Reserved,785
+PL169,10/13/2021,179781,"Olean, NY",1-bedroom,Reserved,475
+PL163,9/25/2021,178871,"Ogdensburg, NY",2-bedroom,Reserved,1008
+PL54,7/2/2020,178111,"Kingston, NY",1-bedroom,Sold,668
+PL113,2/6/2021,177844,"Oneonta, NY",2-bedroom,Sold,964
+PL157,8/13/2021,177836,"Elmira, NY",1-bedroom,Unsold,682
+PL231,4/30/2022,177769,"Buffalo, NY",1-bedroom,Sold,460
+PL44,6/8/2020,177298,"Buffalo, NY",1-bedroom,Unsold,873
+PL30,5/6/2020,176979,"Utica, NY",2-bedroom,Unsold,1119
+PL23,4/6/2020,176760,"Malone, NY",2-bedroom,Sold,781
+PL213,2/17/2022,176393,"Glens Falls, NY",1-bedroom,Sold,605
+PL19,3/12/2020,176129,"Hudson, NY",1-bedroom,Reserved,490
+PL103,1/14/2021,176023,"Glens Falls, NY",1-bedroom,Reserved,802
+PL09,2/9/2020,175622,"Jamestown, NY",2-bedroom,Reserved,766
+PL02,1/1/2020,175030,"Buffalo, NY",1-bedroom,Unsold,770
+PL97,12/16/2020,174582,"Hudson, NY",1-bedroom,Reserved,578
+PL206,1/24/2022,173920,"Rochester, NY",1-bedroom,Unsold,829
+PL147,6/21/2021,173736,"Utica, NY",2-bedroom,Unsold,979
+PL180,11/16/2021,173358,"Rochester, NY",1-bedroom,Reserved,623
+PL194,12/15/2021,173090,"Auburn, NY",2-bedroom,Reserved,872
+PL85,11/14/2020,173056,"Ogdensburg, NY",2-bedroom,Reserved,833
+PL170,10/15/2021,172180,"Hudson, NY",1-bedroom,Sold,641
+PL78,10/21/2020,171447,"Syracuse, NY",1-bedroom,Reserved,688
+PL140,5/24/2021,170793,"Gloversville, NY",1-bedroom,Sold,930
+PL199,12/27/2021,170084,"Gloversville, NY",1-bedroom,Sold,475
+PL73,9/10/2020,169569,"Utica, NY",2-bedroom,Unsold,860
+PL164,9/26/2021,169547,"Ithaca, NY",1-bedroom,Sold,721
+PL185,11/20/2021,168971,"Kingston, NY",1-bedroom,Unsold,532
+PL135,4/26/2021,168695,"Cortland, NY",1-bedroom,Unsold,744
+PL61,8/3/2020,167386,"Elmira, NY",1-bedroom,Unsold,525
+PL292,10/13/2022,166783,"Watertown, NY",1-bedroom,Sold,738
+PL125,3/10/2021,166707,"Amsterdam, NY",1-bedroom,Unsold,563
+PL158,8/16/2021,166189,"Albany, NY",1-bedroom,Sold,802
+PL55,7/7/2020,165722,"Jamestown, NY",2-bedroom,Sold,788
+PL281,9/16/2022,165712,"Seneca Falls, NY",2-bedroom,Unsold,782
+PL115,2/12/2021,165627,"Gloversville, NY",1-bedroom,Unsold,868
+PL267,8/10/2022,164953,"Ogdensburg, NY",2-bedroom,Sold,862
+PL257,7/22/2022,164350,"Buffalo, NY",1-bedroom,Reserved,553
+PL45,6/9/2020,164309,"Rochester, NY",1-bedroom,Sold,857
+PL105,1/19/2021,163762,"Ogdensburg, NY",2-bedroom,Sold,757
+PL31,5/8/2020,163514,"Binghamton, NY",1-bedroom,Sold,626
+PL247,6/22/2022,163388,"Olean, NY",1-bedroom,Reserved,554
+PL24,4/10/2020,162520,"Amsterdam, NY",2-bedroom,Unsold,838
+PL99,12/24/2020,162377,"Batavia, NY",1-bedroom,Sold,774
+PL238,5/26/2022,162022,"Jamestown, NY",2-bedroom,Reserved,873
+PL148,6/24/2021,161638,"Binghamton, NY",1-bedroom,Unsold,549
+PL20,3/14/2020,161288,"Oneonta, NY",2-bedroom,Reserved,812
+PL294,10/19/2022,161102,"Ithaca, NY",1-bedroom,Reserved,599
+PL283,9/18/2022,160747,"Buffalo, NY",1-bedroom,Sold,866
+PL87,11/17/2020,160680,"Corning, NY",1-bedroom,Unsold,857
+PL10,2/10/2020,160275,"Glens Falls, NY",1-bedroom,Sold,807
+PL227,4/16/2022,160238,"Amsterdam, NY",1-bedroom,Sold,809
+PL269,8/17/2022,159767,"Corning, NY",1-bedroom,Unsold,950
+PL03,1/17/2020,159459,"Rochester, NY",1-bedroom,Unsold,513
+PL80,10/22/2020,158693,"Binghamton, NY",1-bedroom,Reserved,783
+PL259,7/26/2022,158595,"Albany, NY",1-bedroom,Unsold,727
+PL141,5/31/2021,158169,"Malone, NY",2-bedroom,Sold,820
+PL214,2/19/2022,157833,"Watertown, NY",1-bedroom,Unsold,748
+PL75,9/24/2020,157069,"Buffalo, NY",1-bedroom,Reserved,705
+PL207,1/27/2022,156226,"Albany, NY",1-bedroom,Sold,824
+PL249,6/28/2022,155622,"Oneonta, NY",2-bedroom,Reserved,766
+PL63,8/9/2020,155231,"Auburn, NY",1-bedroom,Sold,950
+PL195,12/18/2021,155066,"Olean, NY",1-bedroom,Sold,518
+PL57,7/27/2020,154009,"Watertown, NY",1-bedroom,Unsold,861
+PL181,11/16/2021,153904,"Albany, NY",1-bedroom,Reserved,752
+PL171,10/20/2021,153690,"Oneonta, NY",2-bedroom,Sold,809
+PL299,10/29/2022,153265,"Olean, NY",1-bedroom,Sold,819
+PL47,6/11/2020,152574,"Syracuse, NY",1-bedroom,Unsold,815
+PL93,11/28/2020,152012,"Elmira, NY",1-bedroom,Unsold,862
+PL240,5/31/2022,151673,"Watertown, NY",1-bedroom,Reserved,471
+PL126,3/14/2021,151645,"Cortland, NY",1-bedroom,Reserved,730
+PL33,5/18/2020,151616,"Jamestown, NY",1-bedroom,Reserved,771
+PL26,4/14/2020,150478,"Seneca Falls, NY",2-bedroom,Sold,860
+PL116,2/14/2021,149594,"Malone, NY",2-bedroom,Sold,788
+PL274,8/30/2022,149356,"Hudson, NY",1-bedroom,Reserved,860
+PL69,8/22/2020,149297,"Malone, NY",2-bedroom,Unsold,823
+PL12,2/14/2020,147699,"Ogdensburg, NY",1-bedroom,Reserved,698
+PL39,5/26/2020,147534,"Elmira, NY",1-bedroom,Reserved,712
+PL229,4/26/2022,147525,"Seneca Falls, NY",2-bedroom,Sold,842
+PL05,1/26/2020,147048,"Syracuse, NY",1-bedroom,Unsold,527
+PL106,1/27/2021,146751,"Ithaca, NY",1-bedroom,Unsold,533
+PL100,12/26/2020,144434,"Gloversville, NY",1-bedroom,Sold,860
+PL88,11/18/2020,142402,"Elmira, NY",1-bedroom,Reserved,694
+PL81,10/26/2020,140984,"Kingston, NY",1-bedroom,Unsold,703
+PL142,5/31/2021,140111,"Amsterdam, NY",1-bedroom,Reserved,685
+PL64,8/13/2020,139237,"Olean, NY",1-bedroom,Sold,506
+PL27,4/14/2020,139196,"Auburn, NY",1-bedroom,Unsold,572
+PL34,5/20/2020,138779,"Glens Falls, NY",1-bedroom,Sold,773
+PL13,2/17/2020,138739,"Ithaca, NY",1-bedroom,Sold,850
+PL48,6/11/2020,138498,"Utica, NY",2-bedroom,Unsold,852
+PL58,7/30/2020,138492,"Ogdensburg, NY",1-bedroom,Sold,556
+PL06,1/28/2020,137996,"Utica, NY",2-bedroom,Sold,801
+PL197,12/19/2021,137966,"Oneonta, NY",2-bedroom,Sold,778
+PL300,10/30/2022,136972,"Hudson, NY",1-bedroom,Sold,942
+PL127,3/18/2021,136076,"Seneca Falls, NY",2-bedroom,Reserved,800
+PL183,11/17/2021,135084,"Utica, NY",2-bedroom,Sold,757
+PL117,2/20/2021,134551,"Amsterdam, NY",1-bedroom,Sold,844
+PL188,11/28/2021,133601,"Watertown, NY",1-bedroom,Reserved,918
+PL107,1/28/2021,132992,"Corning, NY",1-bedroom,Unsold,650
+PL173,10/23/2021,132577,"Gloversville, NY",1-bedroom,Reserved,497
+PL89,11/19/2020,131158,"Watertown, NY",1-bedroom,Unsold,665
+PL82,10/26/2020,129995,"Jamestown, NY",1-bedroom,Sold,916
+PL65,8/17/2020,127866,"Hudson, NY",1-bedroom,Reserved,825
+PL49,6/13/2020,125494,"Binghamton, NY",1-bedroom,Sold,485
+PL35,5/20/2020,124856,"Watertown, NY",1-bedroom,Unsold,763
+PL28,4/18/2020,124610,"Olean, NY",1-bedroom,Unsold,497
+PL14,2/23/2020,123680,"Corning, NY",1-bedroom,Unsold,744
+PL07,1/30/2020,122780,"Binghamton, NY",1-bedroom,Unsold,721
+PL272,8/25/2022,119938,"Auburn, NY",1-bedroom,Reserved,853
+PL129,3/27/2021,119486,"Syracuse, NY",1-bedroom,Reserved,504
+PL297,10/20/2022,117873,"Plattsburgh, NY",1-bedroom,Unsold,612
+PL119,2/24/2021,117518,"Seneca Falls, NY",2-bedroom,Sold,777
+PL109,1/29/2021,116332,"Plattsburgh, NY",1-bedroom,Sold,675
+PL91,11/20/2020,114721,"Ithaca, NY",1-bedroom,Unsold,722
+PL67,8/21/2020,111356,"Batavia, NY",1-bedroom,Reserved,847
+PL42,5/31/2020,111147,"Olean, NY",1-bedroom,Sold,559
+PL200,12/27/2021,110447,"Malone, NY",2-bedroom,Unsold,855
+PL51,6/21/2020,109559,"Jamestown, NY",1-bedroom,Sold,939
+PL37,5/22/2020,109153,"Ithaca, NY",1-bedroom,Sold,609
+PL186,11/25/2021,107728,"Jamestown, NY",1-bedroom,Reserved,811
+PL16,2/25/2020,106840,"Plattsburgh, NY",1-bedroom,Unsold,854
+PL94,11/28/2020,85938,"Plattsburgh, NY",1-bedroom,Reserved,613
+PL40,5/27/2020,82763,"Plattsburgh, NY",1-bedroom,Sold,817
+PL70,8/31/2020,82130,"Amsterdam, NY",1-bedroom,Unsold,778
