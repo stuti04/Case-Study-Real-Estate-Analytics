@@ -1,4 +1,6 @@
-# Project Description 
+# Case Study: Real Estate Analytics
+
+## Project Description
 
 This case study revolves around performing exploratory data analysis on a real estate agency's data to help the agency understand their business's performance and provide them with actionable metrics to enhance their decision-making. 
 To achieve this, the following steps were performed: 
