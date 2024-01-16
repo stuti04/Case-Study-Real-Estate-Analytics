@@ -31,4 +31,5 @@ This project is complete and therefore, not open for contribution. But any sugge
 
 ### Contact 
 
-LinkedIn - https://www.linkedin.com/in/stuti-dhebar/
+* LinkedIn - https://www.linkedin.com/in/stuti-dhebar/
+* Email - stutidhebar@gmail.com
